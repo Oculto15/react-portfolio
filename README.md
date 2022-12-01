@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Overview
 
-## Getting Started
+I decided to create my own portfolio by using React Framework. I used Next.js and Tailwindcss. To be able to run this program, first I need to create a new project by using npx create-next-app@latest project-name, then I need to install Tailwindcss, npm install -D tailwindcss and then npx tailwindcss init. To run the program I need to use npm run dev.
 
-First, run the development server:
+The purpose of this project to to create my own portfolio so I can show my projects in a better way. Also, to have the opportunity to learn more about React.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+[Software Demo Video](http://youtube.link.goes.here)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Web Page
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+I created a single page where you have can see different section,the first section is where all my information is, where you can find my resume, links to github, linkedIn and instagram. The following section is where I have my skills and what I am learning and the last section is where I have my projects. 
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Development Environment
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+I use Visual Studio Code to create the React project, I also used figma to have a better idea of the Wireframe. 
 
-## Learn More
+Besides React, I also used nextjs and tailwindcss. With the purpose of learning different libraries and how they work.
 
-To learn more about Next.js, take a look at the following resources:
+# Useful Websites
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* [YouTube](https://nextjs.org/)
+* [React](https://reactjs.org/)
+* [Tailwindcss](https://tailwindcss.com/)
+* [Next](https://nextjs.org/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+# Future Work
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+* I want to create a page for each project that I have done.
+* I want to add more content.
